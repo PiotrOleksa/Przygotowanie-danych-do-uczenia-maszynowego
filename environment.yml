@@ -7,10 +7,16 @@ dependencies:
  - pandas
  - pytest
  - isort
- #- pre-commit
  - flake8
  - pip
+ - ipykernel
  - jupyterlab
  - pandas-profiling
  - seaborn
  - altair
+ #- tensorflow
+ #- pre-commit
+ #- sonarlint
+ #- blake
+
+
