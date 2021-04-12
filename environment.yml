@@ -1,0 +1,22 @@
+name: ML-Project
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+ - python==3.8
+ - pandas
+ - pytest
+ - isort
+ - flake8
+ - pip
+ - ipykernel
+ - jupyterlab
+ - pandas-profiling
+ - seaborn
+ - altair
+ #- tensorflow
+ #- pre-commit
+ #- sonarlint
+ #- blake
+
+
