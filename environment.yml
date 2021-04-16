@@ -5,6 +5,7 @@ channels:
 dependencies:
  - python==3.8
  - pandas
+ - numpy
  - pytest
  - isort
  - flake8
@@ -14,6 +15,8 @@ dependencies:
  - pandas-profiling
  - seaborn
  - altair
+ - nb_conda_kernels
+ - streamlit
  #- tensorflow
  #- pre-commit
  #- sonarlint
