@@ -43,3 +43,4 @@ SMA_21 = alt.Chart(df).mark_line(color='green').encode(
 )
 alt_plot = Close + SMA_7 + SMA_21
 alt_plot.interactive()
+
