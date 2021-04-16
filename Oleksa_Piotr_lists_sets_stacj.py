@@ -73,3 +73,4 @@ print(union)
 #difference
 diff = list(set(fake_names_1) - set(fake_names_2))
 print(diff)
+

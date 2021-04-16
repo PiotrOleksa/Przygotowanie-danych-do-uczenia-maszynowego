@@ -42,3 +42,4 @@ axs[1, 1].scatter(x4, y4, color='red')
 axs[1, 1].legend('4')
 fig.tight_layout()
 plt.savefig('Oleksa_Piotr_anscombe_stacj.jpg', dpi=720)
+
