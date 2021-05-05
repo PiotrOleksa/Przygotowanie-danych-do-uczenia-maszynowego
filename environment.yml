@@ -17,6 +17,9 @@ dependencies:
  - altair
  - nb_conda_kernels
  - streamlit
+ - matplotlib
+ - altair
+ - yfinance
  #- tensorflow
  #- pre-commit
  #- sonarlint
